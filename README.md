@@ -7,4 +7,4 @@ you can find each approach with its full expalanation in notebooks with relatd n
 _A) Accuracy of model_ <br>
 _B) Complexity of model_ <br>
 so I tried to design simple models. Besides, unfortunately my laptop configuration is too weak (core i.5 and 6 GB ram, without GPU!), so I was compelled to choose simple model, which can be trained on CPU.<br>
-**3- Many of parameters can be check for improvement in model performance, So the research can be continued on these approaches.
+**3- Many of parameters can be check for improvement in model performance, So the research can be continued on these approaches.**
