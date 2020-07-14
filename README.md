@@ -1,3 +1,6 @@
+# Caution
+To see the code without any problem, first **clone or download the repository**.
+
 # Fashion-MNIST
 
 In this repository I have considered the classification problem of popular **[fashion-mnist dataset](https://github.com/zalandoresearch/fashion-mnist)**. The problem is classical classification problem with 10 classes. You can find 3 deep learning approaches that I used to solve this problem. Each approach was made based on the result of the previous approach and by seeing the problems in previous approach.<br>
