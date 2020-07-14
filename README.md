@@ -1,5 +1,5 @@
 # Caution
-To see the code without any problem, first **clone or download the repository**.
+To see the code without any problem, first **clone or download the repository**. Then see the result on local system.
 
 # Fashion-MNIST
 
